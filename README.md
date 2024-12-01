@@ -60,7 +60,3 @@ We welcome contributions to enhance Smart Face Detection. Please follow these st
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to tailor this `README.md` to better fit any additional specifics or unique features of your app. Let me know if you need further adjustments! 😊
