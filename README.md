@@ -60,3 +60,5 @@ We welcome contributions to enhance Smart Face Detection. Please follow these st
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Developed by Shahin Jamader
